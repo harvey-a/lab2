@@ -1,0 +1,42 @@
+header {
+  font-size: 50px;
+  color: black;
+  font-family: 'Calibri';
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+body {
+    margin: 20px;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#Categories {
+  empty-cells: show;
+  margin: auto;
+  border: 10px c
+  border-color: white;
+}
+#Categories thead {
+  text-align: center;
+  font-weight: bold;
+  color: red;
+  font-family: 'Arial';
+  background-color: blue;
+
+}
+#Categories tbody {
+  text-align: center;
+  font-family: 'Arial';
+  background-color: blue;
+  color: white;
+}
+#Categories th {
+  border: 30px;
+  margin: 60px;
+}
