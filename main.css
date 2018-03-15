@@ -10,6 +10,7 @@ header {
 body {
     margin: 120px;
     padding: 0;
+    background-color: grey;
 }
 
 * {
@@ -19,7 +20,7 @@ body {
 #Categories {
   empty-cells: show;
   margin: auto;
-  border: 120px c
+  border: 120px ;
   border-color: white;
 }
 #Categories thead {
