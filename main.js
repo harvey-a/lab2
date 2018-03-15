@@ -1,5 +1,11 @@
 $(document).ready(function(){
 
+var one100 = $("#one100");
+one100[0].addEventListener("click", function(){
+  var answer = prompt("Sample");
+   $("#one100").text("");
+})
+
 var one200 = $("#one200");
 one200[0].addEventListener("click", function(){
   var answer = prompt("Sample");
@@ -22,6 +28,12 @@ var one1000 = $("#one1000");
 one1000[0].addEventListener("click", function(){
   var answer = prompt("Sample");
     $("#one1000").text("");
+})
+
+var two100 = $("#two100");
+two100[0].addEventListener("click", function(){
+  var answer = prompt("Sample");
+   $("#two100").text("");
 })
 
 var two200 = $("#two200");
@@ -48,6 +60,12 @@ two1000[0].addEventListener("click", function(){
     $("#two1000").text("");
 })
 
+var three100 = $("#three100");
+three100[0].addEventListener("click", function(){
+  var answer = prompt("Sample");
+   $("#three100").text("");
+})
+
 var three200 = $("#three200");
 three200[0].addEventListener("click", function(){
   var answer = prompt("Sample");
@@ -70,6 +88,12 @@ var three1000 = $("#three1000");
 three1000[0].addEventListener("click", function(){
   var answer = prompt("Sample");
     $("#three1000").text("");
+})
+
+var four100 = $("#four100");
+four100[0].addEventListener("click", function(){
+  var answer = prompt("Sample");
+   $("#four100").text("");
 })
 
 var four200 = $("#four200");
@@ -95,4 +119,35 @@ four1000[0].addEventListener("click", function(){
   var answer = prompt("Sample"); 
     $("#four1000").text("");
 })
+
+var five100 = $("#five100");
+five100[0].addEventListener("click", function(){
+  var answer = prompt("Sample");
+   $("#five100").text("");
+})
+
+var five200 = $("#five200");
+five200[0].addEventListener("click", function(){
+  var answer = prompt("Sample");
+  $("#five200").text("");
+})
+
+var five400 = $("#five400");
+five400[0].addEventListener("click", function(){
+  var answer = prompt("Sample");
+    $("#five400").text("");
+})
+
+var five800 = $("#five800");
+five800[0].addEventListener("click", function(){
+  var answer = prompt("Sample");
+    $("#five800").text("");
+})
+
+var five1000 = $("#five1000");
+five1000[0].addEventListener("click", function(){
+  var answer = prompt("Sample"); 
+    $("#five1000").text("");
+})
+
 })
