@@ -10,7 +10,7 @@ header {
 body {
     margin: 120px;
     padding: 0;
-    background-color: grey;
+    background-color: CornflowerBlue;
 }
 
 * {
@@ -26,16 +26,16 @@ body {
 #Categories thead {
   text-align: center;
   font-weight: bold;
-  color: red;
+  color: LightSlateGrey;
   font-family: 'Arial';
-  background-color: blue;
+  background-color: BurlyWood;
 
 }
 #Categories tbody {
   text-align: center;
   font-family: 'Arial';
-  background-color: blue;
-  color: white;
+  background-color: BurlyWood;
+  color: LightSlateGrey;
 }
 #Categories th {
   border: 130px;
