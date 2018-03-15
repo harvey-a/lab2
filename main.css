@@ -28,13 +28,13 @@ body {
   font-weight: bold;
   color: LightSlateGrey;
   font-family: 'Arial';
-  background-color: BurlyWood;
+  background-color: Moccasin;
 
 }
 #Categories tbody {
   text-align: center;
   font-family: 'Arial';
-  background-color: BurlyWood;
+  background-color: Moccasin;
   color: LightSlateGrey;
 }
 #Categories th {
